@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+       "**/obj": true,
+       ".gitignore": true,
+       "README.md": true,
+       "**/bin": true,
+       ".vscode": true
+    }
+}

@@ -1,0 +1,9 @@
+1 - O sistema deve permitir que os usuários façam login
+    Usuario
+        Id, nome, email, senha
+
+    1. Criar a classe usuario no C#
+    2. Levantar o Sql Server Via docker
+    3. Criar o script de criação do banco VendaMais e tabela Usuario
+    4. No C# escreve um teste unitario que criar um usuario 
+    5. Criar senários de erros e realizar as validações 
