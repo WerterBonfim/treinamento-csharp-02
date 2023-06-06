@@ -7,5 +7,3 @@
     3. Criar o script de criação do banco VendaMais e tabela Usuario
     4. No C# escreve um teste unitario que criar um usuario 
     5. Criar senários de erros e realizar as validações 
-
-tdd
